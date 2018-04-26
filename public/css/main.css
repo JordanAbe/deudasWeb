@@ -1,0 +1,56 @@
+header{
+    margin-bottom: 50px;
+}
+.content{
+    max-width: 800px;
+    text-align: center;
+}
+
+/*
+body{
+    padding: 20px;
+}
+.principal{
+    width: 800px;
+    background-color: white;
+    padding: 50px;
+    margin-top: 20px;
+    margin:auto;
+    text-align: center;
+}
+
+.header{
+    border: 1px solid red;
+}
+
+.content{
+    border: 1px solid green;
+    padding: 50px;
+}
+
+.footer{
+    border: 1px solid blue;
+}
+
+.filters{
+    border: 1px solid blue;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input[text]{
+    margin: 0 10px 0 10px;
+}
+
+.create-header{
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.create-body{
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}*/
